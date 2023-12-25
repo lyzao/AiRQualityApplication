@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="deuxi_me_page"> ICI JE METTERAIS LES INFOS DE L\'AIR</string>
+    <string name="placeholder_text">Placeholder Text</string>
+    <string name="ouvrir_la_deuxi_me_page"> Afficher l\'historique</string>
+    <string name="todo">TODO</string>
+    <string name="avatar_de_l_app">avatar de l\'app</string>
+      <string name="Température" />
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="airquality">AirQuality</string>
+    <string name="historique">Historique</string>
+    <string name="mode_sombre">mode sombre</string>
+    <string name="singe">singe</string>
+    <string name="historique1">Historique</string>
+
+
+</resources>

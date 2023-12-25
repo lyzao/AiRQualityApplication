@@ -34,10 +34,10 @@ public class SecondActivity extends AppCompatActivity {
                     // Modifiez les couleurs pour d'autres éléments si nécessaire
                 } else {
                     // Mode sombre désactivé : revenez aux couleurs par défaut
-                    findViewById(R.id.secondLayout).setBackgroundColor(Color.WHITE);
+                    findViewById(R.id.secondLayout).setBackgroundColor(Color.YELLOW);
                     ((TextView) findViewById(R.id.textView)).setTextColor(Color.BLACK);
-                    ((TextView) findViewById(R.id.textview2)).setTextColor(Color.YELLOW);
-                    ((TextView) findViewById(R.id.switch1)).setTextColor(Color.YELLOW);
+                    ((TextView) findViewById(R.id.textview2)).setTextColor(Color.BLACK);
+                    ((TextView) findViewById(R.id.switch1)).setTextColor(Color.BLACK);
                     // Revenez aux couleurs par défaut pour d'autres éléments si nécessaire
                 }
             }

@@ -36,7 +36,7 @@ public class SecondActivity extends AppCompatActivity {
                     // Mode sombre désactivé : revenez aux couleurs par défaut
                     findViewById(R.id.secondLayout).setBackgroundColor(Color.WHITE);
                     ((TextView) findViewById(R.id.textView)).setTextColor(Color.BLACK);
-                    ((TextView) findViewById(R.id.textview2)).setTextColor(Color.BLACK);
+                    ((TextView) findViewById(R.id.textview2)).setTextColor(Color.YELLOW);
                     ((TextView) findViewById(R.id.switch1)).setTextColor(Color.YELLOW);
                     // Revenez aux couleurs par défaut pour d'autres éléments si nécessaire
                 }
